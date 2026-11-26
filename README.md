@@ -5,17 +5,20 @@
 
 Asset Management
 Private Equity
-Quantitative Finance
 Financial Technology
-Artificial Intelligence
-About Me
-Currently pursuing a Bachelor of Business Administration in Accounting and Finance at HKU, with a Minor in Computer Science.
+
+## Education
+#### The University of Hong Kong
+#### Bachelor of Business Administration in Accounting and Finance
+##### Minor in Computer Science
+##### Expected Graduation: 2029
 
 ## My professional experience includes:
 
 Private Equity Intern @ Wisdomshire Asset Management
 Asset Management Intern @ China Industrial Securities International
 Assistant Marketing Manager Intern @ ICBC
+
 I am passionate about combining finance, technology and data analytics to solve real-world investment and business problems.
 
 ## Skills
@@ -28,10 +31,10 @@ Risk Analysis
 Technical
 Python
 C++
+R
 Bloomberg Terminal
 Wind
-Microsoft Excel
-Data Analytics
+
 ## Experience
 ### Wisdomshire Asset Management
 Conducted valuation and research on convertible bonds
@@ -49,12 +52,7 @@ Projects
 AI-Powered Due Diligence Assistant
 Designed an AI-assisted due diligence solution for financial consulting and risk assessment.
 
-## Education
-The University of Hong Kong
-Bachelor of Business Administration in Accounting and Finance
-Minor in Computer Science
 
-Expected Graduation: 2029
 
 ## Languages
 English (Professional)
